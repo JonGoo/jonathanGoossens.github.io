@@ -1,0 +1,10 @@
+body {
+	font-family: sans-serif;
+	max-width: 60em;
+	margin: 0 auto;
+}
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+}
