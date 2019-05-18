@@ -39,8 +39,8 @@ main {
 .content .grid {
 	border: black 1px solid;
 	padding: 1em;
-	margin: 0.5em 0;
-	width: 100%;
+	margin: 0.5em auto;
+	width: 75%;
 }
 h1, h2, h3 {
 	font-weight: 300;
